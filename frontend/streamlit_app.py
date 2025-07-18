@@ -40,7 +40,7 @@ if submit_button:
         "Age": age
     }
 
-    response = requests.post("http://127.0.0.1:8000/predict", json=input_data)
+    response = requests.post("https://diabetes-risk-predictor-x2ri.onrender.com/predict", json=input_data)
     # Input as DataFrame for SHAP
     import pandas as pd
 
