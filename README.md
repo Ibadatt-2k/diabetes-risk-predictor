@@ -116,4 +116,4 @@ response = requests.post("https://<your-backend>.onrender.com/predict", json=inp
 ## 🤝 Credits
 
 - Dataset: [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
-- Built by: *Ibadatt Singh*
+- Built by: *Ibadatt Singh Aulakh*
