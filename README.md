@@ -12,7 +12,7 @@ This is a full-stack machine learning application that predicts whether a person
 
 ## 🚀 Live Demo
 
-- **Frontend (Streamlit):** [Visit App](https://diabetes-risk-predictor-x2ri.onrender.com/)
+- **Frontend (Streamlit):** [Visit App](https://diabetes-streamlit-frontend.onrender.com/)
 - **Backend (FastAPI):** Render-deployed API endpoint (used internally by frontend)
 
 ---
